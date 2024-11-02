@@ -5,3 +5,4 @@ if first_wagon_num == current_wagon_num:
 else:
     print(first_wagon_num + current_wagon_num - 1)
 # Тестовый коментарий
+print("Изменения в удаленном репозитории")
