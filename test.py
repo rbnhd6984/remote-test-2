@@ -4,3 +4,4 @@ if first_wagon_num == current_wagon_num:
     print("Без доп информации, решение невозможно")
 else:
     print(first_wagon_num + current_wagon_num - 1)
+# Тестовый коментарий
